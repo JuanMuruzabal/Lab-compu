@@ -1,6 +1,5 @@
+
 # Lab-compu-II
-# Lab-compu-II
-Ejercicio readme ii
 
 ## Autores
 - **Muruzabal**, Juan
